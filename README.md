@@ -1,4 +1,4 @@
-# Upcounter with Dual 7-Segment Displays 🔄️🔄️
+# Counter with Dual 7-Segment Displays 🔄️🔄️
 
 Welcome to the repository for a simple yet effective upcounter project utilizing two 7-segment displays for visual output. This project is designed to count up in a sequential manner, demonstrating the basics of digital counting circuits and display interfacing.
 
